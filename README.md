@@ -52,18 +52,6 @@ In order to install both libraries you can follow these installation links below
 
 1. Clone this repo.
 
-With SSH
-
-```bash
-git clone git@github.com:alvgaona/yolo-object-detection.git --recurse-submodules
-```
-
-With HTTPS
-
-```bash
-git clone https://github.com/alvgaona/yolo-object-detection.git --recurse-submodules
-```
-
 This project relies on [googletest][Google Test] as a thirdparty library.
 
 2. Compile the project.
